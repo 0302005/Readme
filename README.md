@@ -11,3 +11,10 @@ Um crud feito em node.js e express
 ## Implantação em produção
 - API: Postman
 - Banco de dados: MongoDB Atlas
+# Integrantes
+- Enzo Gonzalez Jeronymo
+- Éder Gomes da Silva Júnior
+- Gabriel Araújo do Nascimento
+- Henrique de Oliveira Souza
+- Bruno Dias Custodio
+- Kauã Martins
